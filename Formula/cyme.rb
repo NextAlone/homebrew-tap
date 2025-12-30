@@ -1,7 +1,7 @@
 class Cyme < Formula
   desc "List system USB buses and devices. A modern cross-platform lsusb"
   homepage "https://github.com/NextAlone/cyme"
-  url "https://github.com/NextAlone/cyme.git"
+  url "https://github.com/NextAlone/cyme.git", branch: "main"
   version "2.2.8"
   license "GPL-3.0-or-later"
 
